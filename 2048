@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>2048 Game - Play 2048 Game Online</title>
+
+<link href="/css/main.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/meta/apple-touch-icon.png">
+
+<meta property='og:image' content="/meta/apple-touch-icon.png" />
+
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0, maximum-scale=1, user-scalable=no, minimal-ui">
+
+</head>
+<body>
+  <div class="container">
+    <div class="heading">
+  <h1 class="title">2048</h1>
+  <div class="scores-container">
+    <div class="score-container">0</div>
+    <div class="best-container">0</div>
+  </div>
+</div>
+<div class="game-intro">
+  <a class="restart-button">New Game</a>
+  <h2 class='subtitle'>Play <strong>2048 Game</strong> Online</h2>
+  <div class='above-game'>
+    <p>Join the numbers and get to the <strong>2048 tile!</strong></p>
+  </div>
+</div>
+
+<div class="game-container">
+  <div class="game-message">
+    <p></p>
+    <div class="lower">
+      <a class="keep-playing-button">Keep playing</a>
+      <a class="retry-button">Try again</a>
+      <div class="score-sharing">
+      </div>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    </div>
+  </div>
+
+  <div class="grid-container">
+    <div class="grid-row">
+      <div class="grid-cell"></div>
+      <div class="grid-cell"></div>
+      <div class="grid-cell"></div>
+      <div class="grid-cell"></div>
+    </div>
+    <div class="grid-row">
+      <div class="grid-cell"></div>
+      <div class="grid-cell"></div>
+      <div class="grid-cell"></div>
+      <div class="grid-cell"></div>
+    </div>
+    <div class="grid-row">
+      <div class="grid-cell"></div>
+      <div class="grid-cell"></div>
+      <div class="grid-cell"></div>
+      <div class="grid-cell"></div>
+    </div>
+    <div class="grid-row">
+      <div class="grid-cell"></div>
+      <div class="grid-cell"></div>
+      <div class="grid-cell"></div>
+      <div class="grid-cell"></div>
+    </div>
+  </div>
+
+  <div class="tile-container">
+
+  </div>
+</div>
+
+<div class='right ads-button'>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- 2048 - Button -->
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:125px;height:125px"
+       data-ad-client="ca-pub-8835846827692980"
+       data-ad-slot="3658476550"></ins>
+  <script>
+  (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+<div class="fb-line" style="height: 25px;">
+  <div class="fb-like" data-href="http://2048game.com" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+</div>
+<div class='share-img-container'>
+  <img src="/img/share-with-friends.jpg" class='share-img' alt="Share with friends" />
+  <img src="/img/share-with-friends-small.jpg" class='share-img-small' alt="Share with friends" />
+</div>
+<div class='clearfix'>
+</div>
+
+<p class="game-explanation">
+  <strong class="important">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same number touch, they <strong>merge into one!</strong>
+</p>
+
+<p>
+  Do you still have free time after playing 2048?<br/>
+  If <strong>YES</strong>, why don't you check the footer ;)<br/>
+  If <strong>NO</strong>, <a href='http://hmpg.net/' rel='nofollow'>click here</a> or play <a href='/flappy-thirds.html'>Flappy Thirds</a>
+</p>
+
+
+    <hr>
+    <h3 style='margin-bottom: 10px; text-align: center;'>Learn more about <strong>2048 Game</strong></h3>
+    <div>
+      <ul class='unstyled tips-and-tricks' style="">
+        <li><a href="/tips-and-tricks">Tips &amp; Tricks</a></li>
+        <li class='even'><a href="/videos">2048 Videos</a></li>
+        <li><a href="/quotes">2048 Quotes</a></li>
+        <li class='even'><a href="/variations">2048 Variations</a></li>
+      </ul>
+      <div class='clearfix'></div>
+    </div>
+    <div class='ads text-center' style="margin-top: 25px;">
+      <style>
+      .game-responsive { width: 300px; height: 250px; margin: 0 auto;}
+      @media(max-width: 480px) { .game-responsive { width: 250px; height: 250px; } }
+      </style>
+      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <!-- 2048 - Responsive -->
+      <ins class="adsbygoogle game-responsive"
+           style="display:inline-block"
+           data-ad-client="ca-pub-8835846827692980"
+           data-ad-slot="6611942951"></ins>
+      <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+    </div>
+    <div class='clearfix'></div>
+    <hr>
+    <footer class='text-center'>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" rel='nofollow' target="_blank">Surprise</a> ·
+      <a href="https://www.youtube.com/watch?v=J---aiyznGQ" rel='nofollow' target="_blank">Cats FTW</a> ·
+      <a href="https://www.youtube.com/watch?v=MNyG-xu-7SQ" rel='nofollow' target="_blank">Wake Up</a> ·
+      <a href="https://www.youtube.com/watch?v=CsGYh8AacgY" rel='nofollow' target="_blank">Unicorns</a> ·
+      <a href="https://www.youtube.com/watch?v=05BipfPpUsA" rel='nofollow' target="_blank">ASDF</a> ·
+      <a href="/approved.html">Approved!</a>
+      <!--
+      <a href="http://www.vivaquotes.com" target="_blank">Famous Quotes</a>
+      -->
+    </footer>
+  </div>
+
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=513919882011347";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+  <script src="/js/all.js"></script>
+
+  <!-- Google Analytics -->
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-10949806-11']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+</body>
+</html>
